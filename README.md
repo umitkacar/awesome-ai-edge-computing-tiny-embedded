@@ -1604,6 +1604,7 @@ Status: ✅ Available
 
 #### 📚 **Collections**
 - ⭐ [Awesome Embedded and Mobile Deep Learning](https://github.com/csarron/awesome-emdl/blob/master/README.md)
+- 🔐 [TWZRD Agent Intel](https://intel.twzrd.xyz) — Trust scoring MCP server for TinyML & edge AI agents. Verify agent wallet identity before x402 micropayment access to sensor data APIs and edge inference endpoints. Zero-install: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 </details>
 
