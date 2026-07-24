@@ -696,6 +696,23 @@ Base: PyTorch
 
 </td>
 </tr>
+<tr>
+<td colspan="2">
+
+### 🧩 **Xybrid**
+
+> 🔒 Open-source, local-first runtime for running LLMs, ASR, and TTS natively in apps and games
+
+**✨ Features:**
+- 🔹 Offline execution with no cloud required
+- 🔹 SDKs for Flutter, Kotlin, Unity, Rust, and native bindings
+- 🔹 Cross-platform support for mobile, desktop, and games
+
+**🔗 Resources:**
+- [Xybrid GitHub](https://github.com/xybrid-ai/xybrid)
+
+</td>
+</tr>
 </table>
 
 ---
